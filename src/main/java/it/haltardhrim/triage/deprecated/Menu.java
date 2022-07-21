@@ -1,4 +1,4 @@
-package it.haltardhrim.triage;
+package it.haltardhrim.triage.deprecated;
 
 import java.sql.*;
 import java.util.Scanner;
